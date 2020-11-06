@@ -1,13 +1,23 @@
-- name: PyTorch
+- name: MATLAB / Simulink
   percentage: 90
   color: info
 
-- name: TensorFlow
+- name: Eclipse
   percentage: 90
   color: success
 
-- name: Django
-  percentage: 70
+- name: Arduino
+  percentage: 90
+  color: success
 
-- name: Docker
+- name: Vector CANoe 
   percentage: 70
+  color: success
+  
+- name: ControlDesk 
+  percentage: 60
+  color: success
+  
+- name: LabVIEW 
+  percentage: 60
+  color: success
