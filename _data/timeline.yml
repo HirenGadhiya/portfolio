@@ -1,9 +1,14 @@
 - title: Master Degree, Technische Universität Chemnitz
   from: 2017
-  to: present
-  description: Automotive Software Engineering
+  to: Present
+  description: Embedded Systems
 
 - title: Bachelor Degree, Gujarat Technological University
+  from: 2014
+  to: 2017
+  description: Electrical Engineering
+  
+  - title: Diploma Degree, Gujarat Technological University
   from: 2011
-  to: 2015
-  description:  Electronics and Communication Engineering
+  to: 2014
+  description: Electrical Engineering
