@@ -1,6 +1,6 @@
 - name: MATLAB / Simulink
   percentage: 90
-  color: info
+  color: success
 
 - name: Eclipse
   percentage: 90
