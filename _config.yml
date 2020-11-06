@@ -4,7 +4,7 @@ description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces.
 baseurl             : "/portfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : jayraj3/portfolio   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : HirenGadhiya/portfolio   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -23,17 +23,17 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Jayrajsinh Parmar
+  name              : Hiren Gadhiya
   image             : ./image/super_resolution.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : jayrajvp18@gmail.com
+  email             : hirengadhiya0203@gmail.com
 #  facebook          : your_username
-  github            : jayraj3
+  github            : HirenGadhiya
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : jayraj18
+  linkedin          : hirengadhiya
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
@@ -63,10 +63,10 @@ collections:
 
 
 ### Analytics ###
-analytics:
-  enabled: true                                        # Set true to enable analytics
-  google:
-    tracking_id: G-Y25H1X6L4C
+# analytics:
+#   enabled: true                                        # Set true to enable analytics
+#   google:
+#     tracking_id: G-Y25H1X6L4C
 
 
 ### Defaults for collections ###
